@@ -1,4 +1,4 @@
-import { Subject } from "typeorm/persistence/Subject";
+import { Subject } from "../entities/subjects";
 import { AppDataSource } from "../data-source";
 
 
